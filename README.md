@@ -1,16 +1,14 @@
-### Hi there 👋
+## ABOUT
 
-<!--
-**tolentino15/tolentino15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+System.out.println ( "Hello Everyone!! Nice to meet you, my name is Luiz Tolentino!" );
 
-Here are some ideas to get you started:
+Welcome to my Git profile, here you'll know me better and find some projects that i made... 😉
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actually i'm a Computer Science Student and a huge fan of technology.
+At 20 years old i hope to be an excellent Full-Stack programmer...🤯
+
+## CONTACT
+<div>
+  <a href="https://beacons.ai/luiztolentino" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+</div>
+
