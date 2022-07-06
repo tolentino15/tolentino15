@@ -7,9 +7,19 @@ Welcome to my Git profile, here you'll know me better and find some projects tha
 Actually i'm a Computer Science Student and a huge fan of technology.
 At 20 years old i hope to be an excellent Full-Stack programmer...🤯
 
-## CONTACT
+##
+
+<div>
+ <img align="right" alt="luiz-pic" height="120"  style="border-radius:50px;" src="https://user-images.githubusercontent.com/66320220/177435633-829c0903-56dc-4e5c-92e7-ce0ce716a2bd.jpg">
+</div>
+
 <div align="center">
-  <img  alt="luiz-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/315972772863934465/706334257559240745/994026035656015973">
+<strong>CONTACT</strong>
+<p></p>
+</div>
+
+
+<div align="center">
   <a href="https://beacons.ai/luiztolentino" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   
 </div>
