@@ -10,7 +10,7 @@ At 20 years old i hope to be an excellent Full-Stack programmer...🤯
 ##
 
 <div>
- <img align="right" alt="luiz-pic" height="120"  style="border-radius:50px;" src="https://user-images.githubusercontent.com/66320220/177435633-829c0903-56dc-4e5c-92e7-ce0ce716a2bd.jpg">
+ <img align="right" alt="luiz-pic" height="500"  style="border-radius:50px;" src="https://user-images.githubusercontent.com/66320220/177436841-e5e91632-18ae-451a-8a66-92e51dfb5b10.png">
 </div>
 
 <div align="center">
