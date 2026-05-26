@@ -20,6 +20,6 @@ I'm 23 years old and in the future i hope to be an excellent Full-Stack programm
 
 
 <div align="center">
-  <a href="https://beacons.ai/luiztolentino" target="_blank"> </a>
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   
 </div>
