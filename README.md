@@ -23,12 +23,3 @@ I'm 23 years old and in the future i hope to be an excellent Full-Stack programm
   <a href="https://beacons.ai/luiztolentino" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   
 </div>
-
-## STATS
-
-<div align="center">
-  <a href="https://github.com/tolentino15">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tolentino15&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolentino15&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
-
