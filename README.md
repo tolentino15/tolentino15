@@ -9,10 +9,6 @@ I'm 23 years old and in the future i hope to be an excellent Full-Stack programm
 
 ##
 
-<div>
- <img align="right" alt="luiz-pic" height="500"  style="border-radius:50px;" src="https://user-images.githubusercontent.com/66320220/177436841-e5e91632-18ae-451a-8a66-92e51dfb5b10.png">
-</div>
-
 <div align="center">
 <strong>CONTACT</strong>
 <p></p>
@@ -20,6 +16,6 @@ I'm 23 years old and in the future i hope to be an excellent Full-Stack programm
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://beacons.ai/luiztolentino" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   
 </div>
